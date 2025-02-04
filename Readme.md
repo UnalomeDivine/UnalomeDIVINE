@@ -5,7 +5,7 @@
 <h3 align="center">A  Novice Programmer </h3>
 <p align="center">I am a aspiring programmer who wants to learn more about coding. </p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=UnalomeDivine&label=Profile%20views&color=0e75b6&style=flat" alt="UnalomeDivine" /> 
+ <img src="https://komarev.com/ghpvc/?username=Sralud&label=Profile%20views&color=0e75b6&style=flat" alt="UnalomeDivine" /> 
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="MizukiYuta's language" />
 </p>
 
