@@ -9,10 +9,9 @@
  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="MizukiYuta's language" />
 </p>
 
-- 🔭 I’m currently Studying  on **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **
+- 🔭 I’m currently Studying  in **UNIVERSITY OF SCIENCE AND TECHNOLOGY SOUTHERN PHILIPPINES **
 
 - 🌱 I’m currently learning **PYTHON,JAVA,C PROGARAMMING AND MORE**
 
-- 
 
 
